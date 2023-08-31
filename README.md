@@ -36,3 +36,18 @@ definitely check out!
 | Football | It is  very popular within the<br> United States. | 20 |
 | MMA | While brutal, the fights are<br> at the very least real as<br>compared to WWE. | 40 |
 | Skydiving | You get to jump out of a plane<br>and freefall which is a very relaxing<br>feeling. | 5 |
+
+---
+
+## Quotes by Scientists
+>Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+>>*Albert Einstein*
+
+> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
+>>*Albert Einstein*
+
+>I think of space not as the final frontier but as the next frontier. Not as something to be conquered but to be explored.
+>>*Neil Degrasse Tyson*
+
+> Not only do we live among the stars, the stars live within us.
+>>*Neil Degrasse Tyson*
