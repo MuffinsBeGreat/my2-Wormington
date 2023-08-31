@@ -18,3 +18,7 @@ I like vacationing in Cozumel because it's a small island with tons of resorts, 
 - Vegan options
 - Seafood
 - Tacos
+
+---
+
+[A little about me](MyStats.md)
