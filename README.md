@@ -12,3 +12,9 @@ I like vacationing in Cozumel because it's a small island with tons of resorts, 
 2. Swim
 3. Explore the island/culture
 4. Go diving
+
+- Surprisingly they offer Hot dogs and Nachos
+- Burritos
+- Vegan options
+- Seafood
+- Tacos
