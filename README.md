@@ -51,3 +51,20 @@ definitely check out!
 
 > Not only do we live among the stars, the stars live within us.
 >>*Neil Degrasse Tyson*
+
+---
+
+## Code Fencing
+
+>How to create hamburger menu icon consisting from single SVG path
+>>[Stack Overflow](https://stackoverflow.com/questions/67482923/how-to-create-hamburger-menu-icon-consisting-from-single-svg-path)
+
+```
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg> 
+```
+
+[Code source](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
